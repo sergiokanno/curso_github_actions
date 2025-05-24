@@ -10,6 +10,8 @@ on:
     # - 'release/**'
     paths:
       - '**.txt'
+      - '**.yml'
+      - '**.md'
 jobs:
   on-push:
     runs-on: ubuntu-22.04
