@@ -1,6 +1,6 @@
 name: GitHub Actions - Gerenciamento de erros
 run-name: Running - Gerenciamento de erros
-on: [push, workflow_dispatch]
+on: [workflow_dispatch]
 
 jobs:
 
