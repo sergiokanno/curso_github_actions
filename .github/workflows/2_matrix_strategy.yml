@@ -16,3 +16,5 @@ jobs:
         run: |
           echo ${{ matrix.navegador }}
           echo ${{ matrix.tag }}
+          echo ${{ matrix.framework }}
+          
